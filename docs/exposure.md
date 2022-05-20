@@ -1,7 +1,7 @@
 *Author: Pragya Chawla*
 
 
-Below we provide a sample script for creating an exposure map from CHIME/FRB Catalog 1 Data. This example uses the healpy package to project the exposure map onto the 2D plane and serves as an example tp create both a high and low resolution exposure maps.
+Below we provide a sample script for creating an exposure map from CHIME/FRB Catalog 1 Data. This example uses the healpy package to project the exposure map onto the 2D plane and serves as an example to create both a high and low resolution exposure maps.
 
 This utility is also provided through the [CHIME/FRB Open Data](https://github.com/chime-frb-open-data/chime-frb-open-data) python project.
 
